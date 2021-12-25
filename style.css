@@ -1,0 +1,33 @@
+
+
+h4{
+    position: absolute;
+    width: 201px;
+    height: 33px;
+    left: 80px;
+    top: 89px;
+
+    font-family: "Chakra Petch" , sans-serif;
+    font-size: 19px;
+    font-weight: 600;
+    font-style: normal;
+    line-height: 25px;
+    color: #000000;
+}
+
+p{
+    position: absolute;
+    width: 464px;
+    height: 148px;
+    left: 543px;
+    top: 201px;
+
+    font-family: "Chakra Petch",sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 54px;
+    line-height: 70px;
+    letter-spacing: 0.04em;
+
+    color: #333333;
+}
