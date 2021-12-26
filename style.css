@@ -69,7 +69,7 @@ div.button {
    background-color: #333333;
 }
 
-div.home_link {
+div.home_link a{
     position: absolute;
     width: 139px;
     height: 22px;
@@ -82,5 +82,7 @@ div.home_link {
     font-size: 15px;
     line-height: 19px;
 
-    background-color: #FFFFFF;
+    text-decoration: none;
+    color: #FFFFFF;
+    
 }
